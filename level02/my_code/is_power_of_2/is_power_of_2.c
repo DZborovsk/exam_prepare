@@ -11,6 +11,6 @@ int		is_power_of_2(unsigned int n)
 
 int		main(void)
 {
-	printf("Is power of 2? %d", is_power_of_2(16));
+	printf("Is power of 2? %d", is_power_of_2(6542541));
 	return (0);
 }
